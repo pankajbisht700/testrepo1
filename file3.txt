@@ -1,1 +1,2 @@
-this is 3rd file.
+it is the 3rd file
+2nd line added
