@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-this is the 3rd file
-2nd line added
-3rd line add
-=======
 it is third file
 2nd line added
 3rd line added
 4th line added
->>>>>>> 00bdf2844ef9513a525d33eb651bc80c90f62f88
+
