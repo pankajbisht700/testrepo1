@@ -1,5 +1,4 @@
 this is 2nd FILE
-2 add more lines = change from master
+2 add more lines
 3 add more lines
-4 changes from master on 21 july
-5 changes 3 aug
+9th line
